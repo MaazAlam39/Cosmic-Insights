@@ -1,4 +1,4 @@
-# Q&A AI Assistant with Gemini Pro Model
+# COSMIC INSIGHTS
 
 ## Introduction
 This is a simple Streamlit application that leverages the Gemini Pro model from Google Generative AI for answering questions. It allows users to input a question and receive an instant AI-generated response.
@@ -15,7 +15,7 @@ This is a simple Streamlit application that leverages the Gemini Pro model from 
   streamlit run your_app_name.py
 ```
 
-##Usage
+## Usage
 Open the app in your browser.
 Enter your question in the provided text input.
 Click the "Ask the question" button.
@@ -23,13 +23,13 @@ View the AI-generated response below the input.
 Configuration
 Make sure to set your Google API key in the .env file.
 
-##Dependencies
+## Dependencies
 streamlit: Web application framework for interactive dashboards.
 google-generativeai: Python client library for Google Generative AI.
 License
 This project is licensed under the MIT License. See the LICENSE.md file for details.
 
-##Acknowledgments
+## Acknowledgments
 Streamlit
 Google Generative AI
 
