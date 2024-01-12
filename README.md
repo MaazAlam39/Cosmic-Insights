@@ -11,9 +11,9 @@ This is a simple Streamlit application that leverages the Gemini Pro model from 
   
     GOOGLE_API_KEY=your_google_api_key
 3.Running the Application
-  
+  ```bash
   streamlit run your_app_name.py
-
+```
 
 ##Usage
 Open the app in your browser.
